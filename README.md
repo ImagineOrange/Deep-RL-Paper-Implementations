@@ -14,14 +14,14 @@ This game will serve as the environment for each deep RL experiment in this repo
 **To run:** 
 _I suggest creating a custom conda environment via command line and then installing requirements using pip :_ 
 
-conda create --name {env_name} {python==3.9.15}
+% conda create --name {env_name} {python==3.9.15}
 
-conda activate env_name
+% conda activate env_name
 
-pip install numpy,pygame,random
+% pip install numpy,pygame,random
 
-cd {path to downloaded folder containing the code for this repo}
+% cd {path to downloaded folder containing the code for this repo}
 
-python human_playable_snake.py
+% python human_playable_snake.py
 
 ---------------------------------------------------------------------------------------------------------------------------
