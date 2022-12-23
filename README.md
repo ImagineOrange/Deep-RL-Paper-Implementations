@@ -1,6 +1,10 @@
 # Deep-RL-Paper-Implementations
 A collection of deep reinforcement learning algorithms experiments using a custom pygame snake environment 
 
+
+[]!(https://github.com/ImagineOrange/Deep-RL-Paper-Implementations/blob/main/snake_DQN.gif)
+
+
 ---------------------------------------------------------------------------------------------------------------------------
 ### human_playable_snake.py
 
