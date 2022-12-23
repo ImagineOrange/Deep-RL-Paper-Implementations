@@ -21,7 +21,7 @@ _I suggest creating a custom conda environment via command line and then install
 
 % conda create --name {env_name} {python==3.9.15}
 
-% conda activate env_name
+% conda activate {env_name}
 
 % pip install numpy,pygame,random
 
