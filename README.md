@@ -20,4 +20,5 @@ conda activate env_name
 pip install numpy,pygame,random
 cd {path to downloaded folder containing the code for this repo}
 python human_playable_snake.py
+
 ---------------------------------------------------------------------------------------------------------------------------
