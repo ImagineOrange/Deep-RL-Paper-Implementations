@@ -16,9 +16,13 @@ To run:
 I suggest creating a custom conda environment via command line and then installing requirements using pip : 
 
 conda create --name {env_name} {python==3.9.15}
+
 conda activate env_name
+
 pip install numpy,pygame,random
+
 cd {path to downloaded folder containing the code for this repo}
+
 python human_playable_snake.py
 
 ---------------------------------------------------------------------------------------------------------------------------
