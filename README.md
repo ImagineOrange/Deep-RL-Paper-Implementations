@@ -5,7 +5,7 @@ A collection of deep reinforcement learning algorithms experiments using a custo
 ### human_playable_snake.py
 
 **Requirements:** 
-_numpy,pygame,random_
+_numpy, pygame, random_
 
 **Description:**  
 _A homemade snake game built using pygame. The rules are basic, with four directional actions possible,  
