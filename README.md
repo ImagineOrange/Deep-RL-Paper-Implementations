@@ -7,6 +7,7 @@ A collection of deep reinforcement learning algorithms experiments using a custo
 
 ---------------------------------------------------------------------------------------------------------------------------
 ### human_playable_snake.py
+A
 
 <ins>**Requirements:**</ins> 
 _numpy, pygame, random_
