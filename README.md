@@ -2,6 +2,7 @@
 A collection of deep reinforcement learning algorithms experiments using a custom pygame snake environment 
 
 --human_playable_snake.py--
+
 Requirements: 
 numpy,pygame,random
 
