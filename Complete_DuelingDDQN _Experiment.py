@@ -329,7 +329,7 @@ if __name__ == "__main__":
     #eval -------------------------------------------------- 
 
     #continue training 
-    agent_training_checkpoint = torch.load('/Users/ethancrouse/Desktop/ALT_Ethan_Dueling_ep_frame_15500000.pth.tar',map_location=torch.device('cpu'))
+    agent_training_checkpoint = torch.load('pre-trained_DuelingDDQN.pth.tar',map_location=torch.device('cpu'))
     DQN_.load_state_dict(agent_training_checkpoint['online_state_dict'])
     DQN_.eval()
                  
